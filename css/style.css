@@ -1,0 +1,35 @@
+body {
+	background-color: #303030;
+	font-family: londrinasolid !important;
+}
+
+.btn-secondary {
+	background-color: #ffbd4a;
+	text-transform: uppercase;
+	padding: 15px;
+	margin: 10px;
+	color: #303030;
+	letter-spacing: 1px;
+}
+
+.btn-link, .btn-link:hover{
+	color: white;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+
+.principal {
+	margin: auto;
+}
+
+
+@font-face {
+     font-family: "londrinasolid";
+     src: url('fonts/Londrina_Solid/LondrinaSolid-Black.ttf');
+}
+
+#rodape{
+	color: #696969;
+	letter-spacing: 1px;
+	font-size: 14px;
+}
