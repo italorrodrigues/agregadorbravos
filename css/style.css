@@ -3,7 +3,7 @@ body {
 	font-family: londrinasolid !important;
 }
 
-.btn-secondary {
+.btn-secondary, .btn-secondary:active {
 	background-color: #ffbd4a;
 	text-transform: uppercase;
 	padding: 15px;
